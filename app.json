@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "LoveCalculator",
+    "slug": "love-calculator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.love-calc",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "By Muhammad Shahzad\nBuilt React Native Mini Project",
+    "githubUrl": "https://github.com/shazee257/LoveCalculator"
+  }
+}
