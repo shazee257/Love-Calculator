@@ -18,7 +18,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.love-calc",
+      "package": "com.lovecalculator",
       "versionCode": 1
     },
     "web": {
